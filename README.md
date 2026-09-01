@@ -1,6 +1,6 @@
  👨‍💻 Quem sou eu
 
-Sou um estudante de ADS, e sou apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em Java e sempre em busca de novos desafios!
+Eu Sou Leonardo, um estudante de ADS, e sou apaixonado por criar soluções inovadoras e resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em Java e sempre em busca de novos desafios!
 
 
 
