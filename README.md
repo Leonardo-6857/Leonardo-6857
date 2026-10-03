@@ -17,4 +17,6 @@ Tenho interesse em desenvolvimento de software e estou construindo minha base em
 ## Contato
 
 LinkedIn: https://www.linkedin.com/in/leonardo-silva6857/
+
+
 Email: leonardodiasdealmeida56@gmail.com
